@@ -4,8 +4,20 @@
   "description": "Serve static assets nunpacked and compiled. Deploy them to CDN.",
   "keywords": [],
   "author": "Roman Kalyakin <roman@kalyakin.com>",
-  "repository": { "type": "git", "url": "git://github.com/theorm/assets-js.git" },
-  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/theorm/assets-js.git"
+  },
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "less": "~1.7.0",
+    "uglify-js": "~2.4.13",
+    "bluebird": "~1.2.1",
+    "knox": "~0.8.9",
+    "clean-css": "~2.1.8",
+    "recursive-readdir": "~1.0.0",
+    "mime": "~1.2.11"
+  },
   "devDependencies": {
     "mocha": "*",
     "should": "*"
