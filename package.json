@@ -1,0 +1,14 @@
+{
+  "name": "assets-js",
+  "version": "0.0.1",
+  "description": "Serve static assets nunpacked and compiled. Deploy them to CDN.",
+  "keywords": [],
+  "author": "Roman Kalyakin <roman@kalyakin.com>",
+  "repository": { "type": "git", "url": "git://github.com/theorm/assets-js.git" },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
