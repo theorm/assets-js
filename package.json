@@ -16,7 +16,8 @@
     "knox": "~0.8.9",
     "clean-css": "~2.1.8",
     "recursive-readdir": "~1.0.0",
-    "mime": "~1.2.11"
+    "mime": "~1.2.11",
+    "git-rev": "~0.2.1"
   },
   "devDependencies": {
     "mocha": "*",
